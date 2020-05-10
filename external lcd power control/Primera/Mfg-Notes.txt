@@ -1,0 +1,11 @@
+Please note: 
+
+Gerber Files (RS274x) by extension:
+
+  drd – Excellon 2, 2.4 drill file
+  gtl – Top layer (component side)
+  gbl – Bottom layer (solder side)
+  gko – keepout layer – used for the outline of the board
+  gts – Top soldermask
+  gbs – Bottom soldermask
+  gto – Top overlay (silkscreen)

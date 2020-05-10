@@ -1,0 +1,78 @@
+Partlist
+
+Exported from LCD_BiasSupply_Segunda.sch at 11/9/2011 8:39:14 PM
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value          Device           Package  Library      Sheet
+
+CF1      100uF          CAP_POL1206      EIA3216  SparkFun     1
+CF2      100uF          CAP_POL1206      EIA3216  SparkFun     1
+CF3      100uF          CAP_POL1206      EIA3216  SparkFun     1
+CF4      100uF          CAP_POL1206      EIA3216  SparkFun     2
+CF5      100uF          CAP_POL1206      EIA3216  SparkFun     2
+CF6      100uF          CAP_POL1206      EIA3216  SparkFun     2
+CO1      450uF          CAP_POL1206      EIA3216  SparkFun     1
+CO2      10uF           CAP_POL1206      EIA3216  SparkFun     1
+CO3      150uF          CAP_POL1206      EIA3216  SparkFun     1
+CO4      100uF          CAP_POL1206      EIA3216  SparkFun     2
+CO5      20uF           CAP_POL1206      EIA3216  SparkFun     2
+CO6      20uF           CAP_POL1206      EIA3216  SparkFun     2
+CP1      100uF          CAP_POL1206      EIA3216  SparkFun     1
+CP2      100uF          CAP_POL1206      EIA3216  SparkFun     1
+CP3      100uF          CAP_POL1206      EIA3216  SparkFun     1
+CP4      100uF          CAP_POL1206      EIA3216  SparkFun     2
+CP5      100uF          CAP_POL1206      EIA3216  SparkFun     2
+CP6      100uF          CAP_POL1206      EIA3216  SparkFun     2
+CT1      1500pF         CAP0603-CAP      0603-CAP SparkFun     1
+CT2      1500pF         CAP0603-CAP      0603-CAP SparkFun     1
+CT3      1500pF         CAP0603-CAP      0603-CAP SparkFun     1
+CT4      470pF          CAP0603-CAP      0603-CAP SparkFun     2
+CT5      470pF          CAP0603-CAP      0603-CAP SparkFun     2
+CT6      1500pF         CAP_POL1206      EIA3216  SparkFun     2
+DS1      1N5819         SCHOTTKY-DIODE   SOD123   inferno_adan 2
+DS2      1N5819         SCHOTTKY-DIODE   SOD123   inferno_adan 1
+DS3      1N5819         SCHOTTKY-DIODE   SOD123   inferno_adan 1
+DS4      1N5819         SCHOTTKY-DIODE   SOD123   inferno_adan 1
+DS5      1N5819         SCHOTTKY-DIODE   SOD123   inferno_adan 2
+DS6      1N5819         SCHOTTKY-DIODE   SOD123   inferno_adan 2
+JP1      M11PTH         M11PTH           1X11     SparkFun     2
+L1       25uH           INDUCTOR0603     0603     SparkFun     1
+L2       3mH            INDUCTOR0603     0603     SparkFun     1
+L3       100uH          INDUCTOR0603     0603     SparkFun     1
+L4       250uH          INDUCTOR0603     0603     SparkFun     2
+L5       2mH            INDUCTOR0603     0603     SparkFun     2
+L6       13.4mH         INDUCTOR0603     0603     SparkFun     2
+LF1      1.0uH          INDUCTOR0603     0603     SparkFun     1
+LF2      1.0uH          INDUCTOR0603     0603     SparkFun     1
+LF3      1.0uH          INDUCTOR0603     0603     SparkFun     1
+LF4      1.0uH          INDUCTOR0603     0603     SparkFun     2
+LF5      1.0uH          INDUCTOR0603     0603     SparkFun     2
+LF6      1.0uH          INDUCTOR0603     0603     SparkFun     2
+R1       180            RESISTOR0603-RES 0603-RES SparkFun     1
+R2       180            RESISTOR0603-RES 0603-RES SparkFun     1
+R3       180            RESISTOR0603-RES 0603-RES SparkFun     1
+R11      2.2K           RESISTOR0603-RES 0603-RES SparkFun     1
+R12      2.2K           RESISTOR0603-RES 0603-RES SparkFun     1
+R13      2.2K           RESISTOR0603-RES 0603-RES SparkFun     1
+R14      1.2k           RESISTOR0603-RES 0603-RES SparkFun     2
+R15      1.2k           RESISTOR0603-RES 0603-RES SparkFun     2
+R16      953            RESISTOR0603-RES 0603-RES SparkFun     2
+R21      14.2K          RESISTOR0603-RES 0603-RES SparkFun     1
+R22      26K            RESISTOR0603-RES 0603-RES SparkFun     1
+R23      16K            RESISTOR0603-RES 0603-RES SparkFun     1
+R24      2.6k           RESISTOR0603-RES 0603-RES SparkFun     2
+R25      2k             RESISTOR0603-RES 0603-RES SparkFun     2
+R26      4.4K           RESISTOR0603-RES 0603-RES SparkFun     2
+RSC1     0.15           RESISTOR0603-RES 0603-RES SparkFun     1
+RSC2     17             RESISTOR0603-RES 0603-RES SparkFun     1
+RSC3     0.5            RESISTOR0603-RES 0603-RES SparkFun     1
+RSC4     3              RESISTOR0603-RES 0603-RES SparkFun     2
+RSC5     15             RESISTOR0603-RES 0603-RES SparkFun     2
+RSC6     100            RESISTOR0603-RES 0603-RES SparkFun     2
+U1       MC33063ADR     MC33063ADR       SOIC8    inferno_adan 1
+U2       MC33063ADR     MC33063ADR       SOIC8    inferno_adan 1
+U3       MC33063ADR     MC33063ADR       SOIC8    inferno_adan 1
+U4       MC33063ADR     MC33063ADR       SOIC8    inferno_adan 2
+U5       MC33063ADR     MC33063ADR       SOIC8    inferno_adan 2
+U6       MC33063ADR     MC33063ADR       SOIC8    inferno_adan 2

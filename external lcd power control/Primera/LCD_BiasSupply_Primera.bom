@@ -1,0 +1,58 @@
+Partlist exported from Z:/home/kostas777711/Eagle_Projects/Inferno_v1/external lcd power control/Primera/LCD_BiasSupply_Primera.sch at 11/16/2011 1:36:17 PM
+
+Qty Value            Device           Parts                               
+8   0                RESISTOR0603-RES R3, R9, R10, R19, R22, R24, R25, R50
+1   0.1u/16V         CAP0603-CAP      C98                                 
+1   0.1uF            CAP0603-CAP      C2                                  
+2   0.1uF/16v        CAP0603-CAP      C16, C19                            
+1   0.22uF           CAP0603-CAP      CO8                                 
+1   0.33uF/16v       CAP0603-CAP      C9                                  
+4   0.47uF/16v       CAP0603-CAP      C3, C4, C11, C12                    
+3   1K               RESISTOR0603-RES R6, R16, R37                        
+1   1u/25V           CAP0603-CAP      C99                                 
+2   1uF              CAP0603-CAP      C40, COUT                           
+6   1uF/25v          CAP0603-CAP      C6, C7, C8, C13, C14, C15           
+1   2.2u/16V         CAP0603-CAP      C96                                 
+1   2.94K-1%         RESISTOR0603-RES R8                                  
+3   4.7uF            CAP0603-CAP      C41, CIN7, CIN9                     
+2   5.1K-1%          RESISTOR0603-RES R7, R11                             
+1   5pF              CAP0603-CAP      CFF7                                
+1   6.8k             RESISTOR0603-RES R23                                 
+4   10K              RESISTOR0603-RES R5, R15, R26, R100                  
+2   10k              RESISTOR0603-RES R13, R49                            
+1   10pF             CAP_POL1206      CFB1                                
+1   10uF/6.3v        CAP0603-CAP      C1                                  
+3   10uF/10v         CAP0603-CAP      C10, C17, C18                       
+1   11K              RESISTOR0603-RES R20                                 
+1   11k              RESISTOR0603-RES R21                                 
+1   15               RESISTOR0603-RES R47                                 
+1   33K              RESISTOR0603-RES R2                                  
+1   82               RESISTOR0603-RES RS                                  
+1   94.7K            RESISTOR0603-RES R27                                 
+1   100pF            CAP0603-CAP      CFF1                                
+1   241.5K           RESISTOR0603-RES R1                                  
+2   330              RESISTOR0603-RES R4, R14                             
+1   470K             RESISTOR0603-RES R12                                 
+1   619              RESISTOR0603-RES R18                                 
+1   620K             RESISTOR0603-RES R17                                 
+4   BAV99            BAV99            U3, U4, U5, U6                      
+2   BZT52C5V6-V      BZT52C5V6-V      D1, D2                              
+1   CAT4238          CAT4238          U8                                  
+1   CDRH3D16NP-100NC CDRH3D16NP-100NC L2                                  
+1   CDRH125-47UH     CDRH125-47UH     L1                                  
+1   CM453232-470KL   CM453232-470KL   L8                                  
+1   ELL-6RH5RIM      ELL-6RH5RIM      L7                                  
+1   FDC633N          FDC633N          U2                                  
+2   M01PTH           M01PTH           JP4, JP5                            
+1   M11PTH           M11PTH           JP1                                 
+1   MAX152X          MAX152X          U1                                  
+4   MBR0530T3        MBR0530T3        D4, D6, D7, D9                      
+1   MBRS1100TRPBF    MBRS1100TRPBF    D8                                  
+2   MMBT3906         MMBT3906         Q2, Q4                              
+2   PMBS3904         PMBS3904         Q1, Q3                              
+1   SN74LVC1G06DBVR  SN74LVC1G06DBVR  U10                                 
+2   TPS61040DBVR     TPS61040DBVR     U7, U9                              
+1   TPS79633DCQR     TPS79633DCQR     U11                                 
+1   TPSD336M020R0200 TPSD336M020R0200 C5                                  
+1   VLED+            M03PTH           JP2                                 
+1   VLED-            M03PTH           JP3                                 

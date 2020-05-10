@@ -1,0 +1,43 @@
+Partlist exported from Z:/home/kostas777711/Eagle_Projects/Inferno_v1/external lcd power control/Segunda/LCD_BiasSupply_Segunda.sch at 11/16/2011 11:04:37 AM
+
+Qty Value          Device            Parts                       
+1   0.5            RESISTOR0603-RES  RSC3                        
+1   0.15           RESISTOR0603-RES  RSC1                        
+3   1.0uF          INDUCTOR0805      LF4, LF5, LF6               
+3   1.0uH          INDUCTOR0805      LF1, LF2, LF3               
+2   1.2k           RESISTOR0603-RES  R14, R15                    
+6   1N5819         SCHOTTKY-DIODE    DS1, DS2, DS3, DS4, DS5, DS6
+3   2.2K           RESISTOR0603-RES  R11, R12, R13               
+1   2.6k           RESISTOR0603-RES  R24                         
+1   2k             RESISTOR0603-RES  R25                         
+1   3              RESISTOR0603-RES  RSC4                        
+1   4.4K           RESISTOR0603-RES  R26                         
+1   10uF/20V       CAP_POL3528       CO2                         
+1   14.2K          RESISTOR0603-RES  R21                         
+1   15             RESISTOR0603-RES  RSC5                        
+1   16K            RESISTOR0603-RES  R23                         
+1   17             RESISTOR0603-RES  RSC2                        
+1   20uF/6.3V      CPOL-USA/3216-18W CO5                         
+1   20uF/10V       CPOL-USA/3216-18W CO6                         
+1   26K            RESISTOR0603-RES  R22                         
+1   100            RESISTOR0603-RES  RSC6                        
+6   100uF/6.3V     CAP_POL6032       CP1, CP2, CP3, CP4, CP5, CP6
+3   100uF/6V       CAP_POL7343       CF4, CF5, CO4               
+1   100uF/10V      CAP_POL6032       CF1                         
+1   100uF/10V      CPOL-USC/6032-28R CF6                         
+2   100uF/20V      CAP_POL7343       CF2, CF3                    
+1   150uF/16V      CAP_POL7343       CO3                         
+3   180            RESISTOR0603-RES  R1, R2, R3                  
+1   450uF/10V      CAP_POL7343       CO1                         
+1   470pF          CAP0603-CAP       CT5                         
+1   470pF          CAP0805           CT4                         
+1   953            RESISTOR0603-RES  R16                         
+4   1500pF         CAP0603-CAP       CT1, CT2, CT3, CT6          
+1   84225C         84225C            L5                          
+1   CC453232-101KL CC453232-101KL    L3                          
+1   LQH3NPN251NG0L LQH3NPN251NG0L    L4                          
+1   M11PTH         M11PTH            JP1                         
+6   MC33063ADR     MC33063ADR        U1, U2, U3, U4, U5, U6      
+1   SDR0503-153JL  SDR0503-153JL     L6                          
+1   SDR0805-272KL  SDR0805-272KL     L2                          
+1   SRR1205-250ML  SRR1205-250ML     L1                          
